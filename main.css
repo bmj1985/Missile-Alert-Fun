@@ -51,7 +51,7 @@ html {
 
 @font-face {
   font-family: "myfirstfont";
-  src: url("DKCrayonCrumble.ttf");
+  src: url("assets/DKCrayonCrumble.ttf");
 }
 
 img {
@@ -98,6 +98,6 @@ li {
 
 
 .survivalguide {
-  background-image: url("http://www.hhcs.com.au/wp-content/uploads/2011/11/112.jpg")
+  background-image: url("asstes/http://www.hhcs.com.au/wp-content/uploads/2011/11/112.jpg")
   border: solid purple 200px;
 }
