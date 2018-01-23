@@ -61,6 +61,8 @@ img {
 
 main {
 background-color: teal;
+display: flex;
+flex-direction: column;
 }
 
 h1 {
@@ -106,6 +108,13 @@ li {
   display: flex;
   justify-content: center;
   margin-top: 2rem;
+}
+
+iframe {
+  display: flex;
+  align-items: center;
+  padding: 2rem;
+  margin: auto;
 }
 
 li.flip-clock-active, li.flip-clock-before, li.flip-clock-after {
