@@ -123,3 +123,12 @@ li.flip-clock-active, li.flip-clock-before, li.flip-clock-after {
   padding: 0rem;
   color: white;
 }
+
+.swal-title {
+  font-family: sans-serif;
+  font-size: 2rem;
+}
+.swal-text {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}

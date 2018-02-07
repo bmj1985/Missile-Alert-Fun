@@ -1,0 +1,23 @@
+{
+  "name": "missile-alert-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmj1985/Missile-Alert-Fun.git"
+  },
+  "author":
+    "Amber Johnson, Brandon Johnson, Kevin O'brien, Malcolm Foster, Nicholas Solimine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmj1985/Missile-Alert-Fun/issues"
+  },
+  "homepage": "https://github.com/bmj1985/Missile-Alert-Fun#readme",
+  "dependencies": {
+    "sweetalert": "^2.1.0"
+  }
+}
